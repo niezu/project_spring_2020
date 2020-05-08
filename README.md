@@ -16,8 +16,8 @@ The formula to convert from degrees Celsius (C) to to degrees Kelvin (k) is:
 Celsius to Kelvin formula: oK = oC +273.15
 Kelvin to Celsius formula: oC = oK - 273.15 (oK 0 degree == -273.15 oC---absolute temprature)
 
-The formula to convert from degrees Rankine (Ra) to degrees Celsius (C) is:ankine
-Rankine (Ra) to Celsius formula: oC = Ra/1.8 -
+The formula to convert from degrees Rankine (Ra) to degrees Celsius (C) is:
+Rankine (Ra) to Celsius formula: oC = Ra/1.8 - 273.15
 
 The formula to convert from degrees Celsius (C) to to degrees Fahrenheit (F) is:
 Celsius to Fahrenheit formula: oF = oC * 1.8 + 32,
