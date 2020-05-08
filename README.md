@@ -17,12 +17,16 @@ The orignal material and code source are from:
 4. google search for conversion of the temperature scales. 
 
 The formulas to convert between degrees Celsius (C) to to degrees Fahrenheit (F) are:
-Celsius to Fahrenheit formula: oF = oC * 1.8 + 32,
-Fahenheit to Celsius formula : oC = (oF-32)/1.8,
+Celsius to Fahrenheit formula: oF = oC * 1.8 + 32;
+Fahenheit to Celsius formula : oC = (oF-32)/1.8;
 
 The formula to convert between degrees Rankine (Ra) to degrees Celsius (C) is:
-Rankine (Ra) to Celsius formula: oC = Ra/1.8 - 273.15
-celsius to Rankine (Ra) formula: 0R = (oC +273.15) * 1.8
+Rankine (Ra) to Celsius formula: oC = Ra/1.8 - 273.15;
+celsius to Rankine (Ra) formula: oR = (oC +273.15) * 1.8;
+
+The formula to convert between degrees Rankine (Ra) to degrees Fahrenheit (F) is:
+Fahrenheit to Rankine formula : oR = F + (237.15 * 1.8 - 32);
+Rankine to Fahrenheit formula:  oF = oR - (237.15 * 1.8-32);
 
 The formula to convert from degrees Celsius (C) to to degrees Kelvin (k) is:
 Celsius to Kelvin formula: oK = oC +273.15
